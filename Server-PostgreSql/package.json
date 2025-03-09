@@ -1,0 +1,26 @@
+{
+  "name": "db-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oRAHOME/db-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oRAHOME/db-service/issues"
+  },
+  "homepage": "https://github.com/oRAHOME/db-service#readme",
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "express": "^4.21.2",
+    "pg": "^8.13.3",
+    "prisma": "^6.2.1"
+  },
+  "description": ""
+}
